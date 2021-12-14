@@ -1,4 +1,8 @@
-![My card name](https://cardivo.vercel.app/api?name=Hyper%20Sir&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://i.imgur.com/M2vPn9o.jpeg?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23ecf0f1&instagram=ig.falcon_gfx&github=Shefin-Sir&)
+### Hi there 👋
+
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Welcome+to+Kelly-Mwol+WA+Bot+repo;Created+by+Shefin+Sir;This+is+a+userbot+privet+and+public+bot;With+more+features)](https://git.io/typing-svg)
+
+![My card name](https://cardivo.vercel.app/api?name=Shefin%20Sir&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://i.imgur.com/M2vPn9o.jpeg?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23ecf0f1&instagram=ig.falcon_gfx&github=Shefin-Sir&)
 
 <h3 align="center">Contact Me:</h3>
 <p align="center">
